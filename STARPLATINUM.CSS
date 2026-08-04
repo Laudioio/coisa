@@ -35,10 +35,12 @@ main{
 }
 h1{
     color: rgb(184, 138, 54);
+    font-size: 30px;
 }
 
 footer{
 
 background-color: blueviolet;
  padding: 15px 25px;
+ color: #340c68;
 }
