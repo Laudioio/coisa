@@ -1,1 +1,1 @@
-# coisa
+# se tu não entendeu é porque não é necessário

@@ -22,9 +22,23 @@
 body{
     display: flex;
     flex-direction: column;
+    min-height: 100vh;
+    background-color: #340c68;
 }
 
 main{
     flex: 1;
+}
+.cabecalho-link{
+    color: rgb(17, 4, 63);
+    text-decoration: solid;
+}
+h1{
+    color: rgb(184, 138, 54);
+}
 
+footer{
+
+background-color: blueviolet;
+ padding: 15px 25px;
 }
